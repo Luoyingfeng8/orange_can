@@ -1,0 +1,10 @@
+<!--pages/test/test.wxml-->
+<view>
+ <image src="/images/post/post-1@text.jpg"></image>
+ <image src="/images/post/post-1.jpg"></image>
+</view>
+<swiper>
+ <swiper-item>
+  <image src="/images/post/post-1.jpg"></image>
+ </swiper-item>
+</swiper>
